@@ -1,0 +1,12 @@
+
+.error-indicator h2 {
+    font-size: 1.3em;
+    color: red;
+    text-transform: initial;
+}
+
+.error-indicator img {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+}

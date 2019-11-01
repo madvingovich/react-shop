@@ -1,0 +1,11 @@
+
+
+.book-cover img {
+    width: 180px;
+}
+.book-price {
+    font-size: 1.3em;
+}
+.book-title {
+    color: darkblue;
+}

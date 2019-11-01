@@ -1,0 +1,29 @@
+.cart-table tr {
+    width: 100%;
+}
+.cart-table thead tr {
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+    color: #000;
+}
+.cart-table tbody tr:not(:last-child) {
+    border-bottom: 1px solid #c1c1c1;
+}
+
+.cart-table th,
+.cart-table td {
+    padding: 5px 15px;
+}
+
+.cart-table button {
+    padding: 0.3rem 0.8rem;
+    font-size: 1.1em;
+}
+
+.total {
+    font-size: 1.3em;
+}
+.total b {
+    color: #000;
+}

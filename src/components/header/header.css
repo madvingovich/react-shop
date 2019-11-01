@@ -1,0 +1,30 @@
+
+header {
+    box-shadow: 0 0 2px #c1c1c1;
+}
+.header-link {
+    font-size: 2em;
+}
+.header-link:hover {
+    color: #000;
+    text-decoration: none;
+}
+.cart-link {
+    position: relative;
+}
+.menu i {
+    font-size: 1.4em;
+}
+.numItems {
+    position: absolute;
+    right: -25px;
+    top: 0;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: red;
+    color: #fff;
+    box-shadow: 0 0 2px red;;
+}

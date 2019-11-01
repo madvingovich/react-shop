@@ -1,0 +1,7 @@
+.book-list {
+    list-style-type: none;
+}
+.book-list li:not(:last-child) {
+    border-bottom: 1px solid #c1c1c1;
+}
+.book-list li {}
